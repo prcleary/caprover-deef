@@ -1,0 +1,3 @@
+[submodule "deef"]
+	path = deef
+	url = https://github.com/prcleary/deef.git
